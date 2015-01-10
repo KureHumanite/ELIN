@@ -1,13 +1,12 @@
 # ELIN
 ELIN is an Collaborative Artificial Intelligence based on Eliza.
-===============================================================
-|N. Landsteiner 2005; D. Steighler 2015; Collaborative Work;  |
-|               Used under the MIT license.                   |
-===============================================================
+
+N Landsteiner 2005. D Steighler 2015. Collaborative Work. 
+Used under the MIT license.                 
  
   To create a new version of ELIN, update the old one, make new 
 code, create a patch, or help in any way, please reference below.
-===============================================================
+
   1. Download the ZIP file of the project or just the file you 
   want to edit. 
   2. Edit the file in whatever editing program you want,
@@ -19,11 +18,11 @@ code, create a patch, or help in any way, please reference below.
   5. Send the file by email to: newELINversion@gmail.com
   6. Use the name ELIN Update, and the desc. What you fixed or 
   changed.
-============================================================== 
+
 And thats all you have to do to help on ELIN. Your name will be 
 under the index.html list of Collaborators, and the comment 
 section on whatever file you edited.
-============================================================== 
+
 
 
                                     - Darius Steighler & KureHumanite
