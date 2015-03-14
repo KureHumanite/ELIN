@@ -21,7 +21,7 @@ And thats all you have to do to help on ELIN. Your name will be
 under the index.html list of Collaborators, and the comment 
 section on whatever file you edited.
 
-And remember ELIN is Grandma Approved!
+And remember ELIN is Grandma Approved! <br />
 <img src="http://sampost.com/wp-content/uploads/2013/05/grandma.jpg"></img>
 
 
