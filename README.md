@@ -15,13 +15,14 @@ code, create a patch, or help in any way, please reference below.
   with - Your name -, - Your email -, - Line Numbers -, 
   and - A short desc. -, of what you changed.
   4. Next save the file ( In the same format. ) 
-  5. Send the file by email to: newELINversion@gmail.com
-  6. Use the name ELIN Update, and the desc. What you fixed or 
-  changed.
+  5. Fork us on github and we will approve the update!
 
 And thats all you have to do to help on ELIN. Your name will be 
 under the index.html list of Collaborators, and the comment 
 section on whatever file you edited.
+
+And remember ELIN is Grandma Approved!
+<img src="http://sampost.com/wp-content/uploads/2013/05/grandma.jpg"></img>
 
 
 
