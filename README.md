@@ -26,4 +26,4 @@ And remember ELIN is Grandma Approved! <br />
 
 
 
-                                    - Darius Steighler & KureHumanite
+                                    - Russ Steighler & KureHumanite
