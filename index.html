@@ -1,17 +1,31 @@
--- WE dont want to give away our new website, so this index has all the basic code needed to make 
-changes to the index.html file.
+<!-- WE dont want to give away our new website, so this index has all the basic code needed to make 
+changes to the index.html file. To visit the actual index visit www.kurehumanite.com/Elin/ -->
 
-/*
+<!--
 	Contributors:
 	===========================================================================
 	Original program by Joseph Weizenbaum in MAD-SLIP for "Project MAC" at MIT.
 	elizabot.js v.1.1 - ELIZA JS library (N.Landsteiner 2005)
-	ELIS - ( D. Steighler - KureHumanite )
+	ELIN - V.2 ( D. Steighler - KureHumanite )
+	===========================================================================
+	
 	
 	Version notes:
 	===========================================================================
-	None.
-*/
+	1 | V.2 = New Site. Added A couple responses.
+	2 |
+	3 |
+	4 |
+	5 |
+	
+	Editor's:
+	===========================================================================
+	1 | D. Steighler
+	2 |
+	3 |
+	4 |
+	5 |
+-->
 
 <HTML>
 <HEAD>
@@ -84,7 +98,7 @@ function elizaStep() {
 <H3>ELIN wants to talk to you.</H3>
 <TABLE BORDER="0" CELLSPACING="10" CELLPADDING="0">
 <FORM NAME="e_form" onsubmit="elizaStep();return false">
-<TR><TD COLSPAN="2"><TEXTAREA NAME="e_display" COLS="60" ROWS="20"></TEXTAREA></TD></TR>
+<TR><TD COLSPAN="2"><TEXTAREA NAME="e_display" COLS="60" ROWS="20" readonly></TEXTAREA></TD></TR>
 <TR VALIGN="middle">
 	<TD><INPUT TYPE="text" NAME="e_input" SIZE="50"></TD>
 	<TD ALIGN="right"><INPUT TYPE="submit" VALUE="&nbsp;Talk&nbsp;"> <INPUT TYPE="reset" VALUE="Reset" onClick="window.setTimeout('elizaReset()',100)"></TD>
